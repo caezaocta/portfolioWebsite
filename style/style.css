@@ -1,0 +1,67 @@
+* {
+    margin: 100;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar {
+    font-size: 16px;
+}
+
+.navbar-brand {
+    font-weight: bold;  
+}
+
+.navbarRight {
+    margin-right: 32px;
+}
+
+/* AKHIR NAVBAR */
+
+
+
+/* MAIN POFILE */
+
+.mainProfile {
+    margin-top: -32px;
+}
+
+.profilePic {
+    margin-top: 180px;
+}
+
+.profilePic img {
+    border-radius: 100%;
+    width: 280px;
+}
+
+.mainName h1{
+    font-size: 32px;
+    margin-top: 40px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.shortDesc h3{
+    font-size: 20px;
+    font-weight: 400; 
+}
+
+/* AKHIR MAIN PROFILE */
+
+
+/* SELECTED PROJECTS */
+
+section .selectedProjects {
+    margin-top: 300px;
+} 
+
+.selectedProjectsTitle h2 {
+    margin-top: 200px;
+    font-size: 24px;
+    font-family: 'Krona One', sans-serif;
+
+}
+
+/* END OF SELECTED PROJECTS */
